@@ -1,6 +1,6 @@
 ## Projects
 
-https://github.com/Dpadizzy/Gradebook
+https://dpadizzy.github.io/Gradebook/
 
 
 
